@@ -1,4 +1,4 @@
-![MasterHead](https://www.it8bit.com/image/674625503156699136)
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/70de7aff-d16a-4837-8719-18b68b53ee84/dg7zwp0-1fe380cb-3fb9-4877-849c-d9179bf481e2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwZGU3YWZmLWQxNmEtNDgzNy04NzE5LTE4YjY4YjUzZWU4NFwvZGc3endwMC0xZmUzODBjYi0zZmI5LTQ4NzctODQ5Yy1kOTE3OWJmNDgxZTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gGxZwyRJ0N5pTSvVWce4sYDJ4op1updZhv_8qeBRXPQ)
 <h1 align="center">Hi 👋, I'm Dishan Goyal</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk1amVqMHNjdXFrem15aW8wdzlkZjZqd253Y3hkN3l6ZGY5cnkwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
